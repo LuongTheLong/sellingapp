@@ -1,0 +1,22 @@
+C:\Users\Administrator\source\repos\ClassLibrary1\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+C:\Users\Administrator\source\repos\ClassLibrary1\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+C:\Users\Administrator\source\repos\ClassLibrary1\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+C:\Users\Administrator\source\repos\ClassLibrary1\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\Administrator\source\repos\ClassLibrary1\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+C:\Users\Administrator\source\repos\ClassLibrary1\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\Administrator\source\repos\ClassLibrary1\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ClassLibrary1\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ClassLibrary1\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ClassLibrary1\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+C:\Users\Administrator\source\repos\ClassLibrary1\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb

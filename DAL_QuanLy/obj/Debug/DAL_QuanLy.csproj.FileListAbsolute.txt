@@ -1,0 +1,18 @@
+C:\Users\Administrator\source\repos\ClassLibrary1\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll
+C:\Users\Administrator\source\repos\ClassLibrary1\DAL_QuanLy\bin\Debug\DAL_QuanLy.pdb
+C:\Users\Administrator\source\repos\ClassLibrary1\DAL_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\Administrator\source\repos\ClassLibrary1\DAL_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\Administrator\source\repos\ClassLibrary1\DAL_QuanLy\obj\Debug\DAL_QuanLy.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ClassLibrary1\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ClassLibrary1\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ClassLibrary1\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
+C:\Users\Administrator\source\repos\ClassLibrary1\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\DAL_QuanLy\bin\Debug\DAL_QuanLy.pdb
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\DAL_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\DAL_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\DAL_QuanLy\obj\Debug\DAL_QuanLy.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb

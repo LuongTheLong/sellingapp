@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ClassLibrary1\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\Administrator\source\repos\ClassLibrary1\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\Administrator\source\repos\ClassLibrary1\DTO_QuanLy\obj\Debug\DTO_QuanLy.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ClassLibrary1\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ClassLibrary1\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+C:\Users\Administrator\source\repos\ClassLibrary1\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\DTO_QuanLy\obj\Debug\DTO_QuanLy.csprojAssemblyReference.cache

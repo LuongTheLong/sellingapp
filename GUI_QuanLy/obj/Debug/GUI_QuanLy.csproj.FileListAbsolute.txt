@@ -1,0 +1,50 @@
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\bin\Debug\GUI_QuanLy.exe.config
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\bin\Debug\GUI_QuanLy.exe
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\bin\Debug\GUI_QuanLy.pdb
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\bin\Debug\BUS_QuanLy.dll
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\bin\Debug\BUS_QuanLy.pdb
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.exe
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.pdb
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.GUI_ChatLieu.resources
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\bin\Debug\DAL_QuanLy.dll
+C:\Users\Administrator\source\repos\ClassLibrary1\GUI_QuanLy\bin\Debug\DAL_QuanLy.pdb
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\bin\Debug\GUI_QuanLy.exe.config
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\bin\Debug\GUI_QuanLy.exe
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\bin\Debug\GUI_QuanLy.pdb
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\bin\Debug\BUS_QuanLy.dll
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\bin\Debug\DAL_QuanLy.dll
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\bin\Debug\BUS_QuanLy.pdb
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\bin\Debug\DAL_QuanLy.pdb
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.GUI_ChatLieu.resources
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.exe
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.pdb
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.GUI_HoaDonBanCT.resources
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.GUI_Khach.resources
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.GUI_Account.resources
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.GUI_ChucVu.resources
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.GUI_NhanVien.resources
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.GUI_HoaDonBan.resources
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.GUI_Hang.resources
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.frmMain.resources
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.frmLogin.resources
+C:\Users\Administrator\Downloads\Đồ Án Công Nghệ Phần Mềm\ClassLibrary1\GUI_QuanLy\obj\Debug\GUI_QuanLy.frmChangePassword.resources
